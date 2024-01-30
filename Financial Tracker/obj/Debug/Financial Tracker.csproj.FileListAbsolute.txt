@@ -1,0 +1,15 @@
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\bin\Debug\Financial Tracker.exe.config
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\bin\Debug\Financial Tracker.exe
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\bin\Debug\Financial Tracker.pdb
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\obj\Debug\Financial Tracker.csproj.AssemblyReference.cache
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\obj\Debug\MainWindow.g.cs
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\obj\Debug\App.g.cs
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\obj\Debug\Financial Tracker_MarkupCompile.cache
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\obj\Debug\Financial Tracker_MarkupCompile.lref
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\obj\Debug\MainWindow.baml
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\obj\Debug\Financial Tracker.g.resources
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\obj\Debug\Financial_Tracker.Properties.Resources.resources
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\obj\Debug\Financial Tracker.csproj.GenerateResource.cache
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\obj\Debug\Financial Tracker.csproj.CoreCompileInputs.cache
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\obj\Debug\Financial Tracker.exe
+C:\Users\nhrob\Desktop\Financial Tracker\Financial Tracker\obj\Debug\Financial Tracker.pdb
